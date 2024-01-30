@@ -58,10 +58,6 @@
   <project path="frameworks/opt/telephony" name="GenshinUI/android_frameworks_opt_telephony" groups="pdk" remote="genshin" />
 
   <project path="hardware/interfaces" name="GenshinUI/android_hardware_interfaces" groups="pdk" remote="genshin" />
-  <project path="hardware/qcom-caf/sm8150/audio" name="GenshinUI/android_hardware_qcom_audio" groups="qcom,msmnile" revision="14.0-caf-sm8150" />
-  <project path="hardware/qcom-caf/sm8150/display" name="GenshinUI/android_hardware_qcom_display" groups="qcom" revision="14.0-caf-sm8150" />
-  <project path="hardware/qcom-caf/sm8150/media" name="GenshinUI/android_hardware_qcom_media" groups="qcom,msmnile" revision="14.0-caf-sm8150" />
-  <project path="hardware/qcom-caf/sm8550/audio/agm" name="GenshinUI/android_vendor_qcom_opensource_agm" groups="qcom,kailua-audio" revision="14.0-caf-sm8550" />
 
   <project path="lineage-sdk" name="GenshinUI/android_lineage-sdk" remote="genshin" />
 
@@ -98,7 +94,7 @@
   <!-- Clang 17.0.4 -->
   <project path="prebuilts/clang/host/linux-x86/clang-latest" name="GenshinUI/android_prebuilts_clang_host_linux-x86_clang-r498229b" remote="genshin-gitlab" />
 
-  <project path="system/core" name="GenshinUI/android_system_core" groups="pdk" remote="genshin" />
+  <project path="system/core" name="GenshinUI/android_system_core" groups="pdk" remote="genshin-gitlab" />
   <project path="system/hardware/interfaces" name="GenshinUI/android_system_hardware_interfaces" groups="pdk" remote="genshin" />
   <project path="system/libhidl" name="GenshinUI/android_system_libhidl" groups="pdk" remote="genshin" />
   <project path="system/linkerconfig" name="GenshinUI/android_system_linkerconfig" groups="pdk" remote="genshin" />
