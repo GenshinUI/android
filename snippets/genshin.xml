@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="crdroid"
+  <remote  name="genshin"
            fetch="https://github.com/"
            sync-c="true"
            sync-j="4"
            revision="refs/heads/14.0" />
 
-  <remote  name="crdroid-gitlab"
+  <remote  name="genshin-gitlab"
            fetch="https://gitlab.com/"
            sync-c="true"
            sync-j="4"
