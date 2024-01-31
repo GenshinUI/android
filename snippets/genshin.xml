@@ -41,7 +41,7 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
-  <project path="device/lineage/sepolicy" name="GenshinUI/android_device_lineage_sepolicy" remote="genshin" />
+  <project path="device/genshin/sepolicy" name="GenshinUI/android_device_genshin_sepolicy" remote="genshin" />
 
   <project path="external/arm-optimized-routines" name="GenshinUI/android_external_arm-optimized-routines" groups="pdk" remote="genshin" />
   <project path="external/boringssl" name="GenshinUI/android_external_boringssl" groups="pdk" remote="genshin" />
