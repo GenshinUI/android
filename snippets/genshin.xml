@@ -108,6 +108,7 @@
   <project path="toolchain/pgo-profiles" name="GenshinUI/android_toolchain_pgo-profiles" groups="pdk" remote="genshin" />
 
   <project path="vendor/addons" name="GenshinUI/android_vendor_addons" remote="genshin" />
+  <project path="vendor/GenshinOTA" name="GenshinUI/android_vendor_GenshinOTA" remote="genshin" />
   <project path="vendor/genshin" name="GenshinUI/android_vendor_genshin" remote="genshin" />
   <project path="vendor/pixel-framework" name="GenshinUI/android_vendor_pixel-framework" remote="genshin" />
 </manifest>
